@@ -2,8 +2,8 @@
 
 FastAPI backend serving a GradientBoosting regression model to predict solar panel efficiency based on environmental and panel parameters.
 
-**Part of the [Green AI Solstice](https://github.com/pablonoah/Green_AI_Solstice) project -- ESILV**
-**Frontend:** [solar-app](https://github.com/pablonoah/solar-app)
+**Part of the [Green AI Solstice](https://github.com/noahlips/Green_AI_Solstice) project -- ESILV**
+**Frontend:** [solar-app](https://github.com/noahlips/solar-app)
 
 ## Tech Stack
 
@@ -33,7 +33,7 @@ FastAPI backend serving a GradientBoosting regression model to predict solar pan
 ## Getting Started
 
 ```bash
-git clone https://github.com/pablonoah/green-ai-solar-backend.git
+git clone https://github.com/noahlips/green-ai-solar-backend.git
 cd green-ai-solar-backend
 pip install -r requirements.txt
 
